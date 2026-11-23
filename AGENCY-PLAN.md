@@ -8,7 +8,7 @@ Rule from the course: **don't move past a checkpoint until every box is ticked.*
 
 ## 📍 Current position
 - **Stage:** Module 3: Niche locked. Now: financial proof + Module 2 setup
-- **Niche:** Kitchen fitters (full kitchen design & installation), UK
+- **Niche:** Kitchen design & installation companies (showrooms / supply + fit, NOT fit-only fitters), UK. Say "kitchen companies" on calls; search "kitchen showroom / kitchen design / fitted kitchens [town]"
 - **Region 1:** Surrey + Hertfordshire (London commuter belt), then expand region by region
 - **Capacity:** 30 hrs/week
 - **Next action:** 5–10 research calls to Surrey/Herts kitchen companies (avg job £, margin, lead source) + finish Module 2 setup

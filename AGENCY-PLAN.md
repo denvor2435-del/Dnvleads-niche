@@ -7,8 +7,11 @@ Rule from the course: **don't move past a checkpoint until every box is ticked.*
 ---
 
 ## 📍 Current position
-- **Stage:** Module 3: Niche (in progress)
-- **Next action:** answer the niche questions (region + 3.3 questions), then lock ONE niche
+- **Stage:** Module 3: Niche locked. Now: financial proof + Module 2 setup
+- **Niche:** Kitchen fitters (full kitchen design & installation), UK
+- **Region 1:** Surrey + Hertfordshire (London commuter belt), then expand region by region
+- **Capacity:** 30 hrs/week
+- **Next action:** 5–10 research calls to Surrey/Herts kitchen companies (avg job £, margin, lead source) + finish Module 2 setup
 - **Blocked on:** nothing
 
 ---
@@ -29,9 +32,9 @@ Rule from the course: **don't move past a checkpoint until every box is ticked.*
 - [ ] Committed to doing modules in order
 
 ### Module 3a: Niche (3.9)
-- [ ] Choose ONE niche (+ specific service + UK region)
+- [x] Choose ONE niche (+ specific service + UK region): **Kitchen fitters, Surrey + Herts**
 - [ ] Prove it makes financial sense (real avg job value from owners → break-even formula)
-- [ ] Choose testing period (track owners reached per 200 dials)
+- [x] Choose testing period: **until 500 dials (≈2–3 weeks at 30 hrs/wk)**, then run the 3.7 check (≥5 owners per 200 dials)
 
 ### Module 3b: Offer (3.13)
 - [ ] Main problem
@@ -72,7 +75,16 @@ Rule from the course: **don't move past a checkpoint until every box is ticked.*
 ## 🎯 Decisions log
 | Date | Decision | Why | Lesson |
 |---|---|---|---|
-| | | | |
+| 2026-11-23 | Niche: **kitchen fitters** (full design & install). Backup: roofing | High ticket (on course high-AOV list); visual for Meta ads; 8.27 kitchen example call. Real estate dropped (not covered by course system); restaurants too low AOV | 3.2–3.5 |
+| 2026-11-23 | Region 1: **Surrey + Hertfordshire** | My judgment: high house values → bigger kitchens; enough firms for 200+ prospects | 4.27 |
+| 2026-11-23 | Testing period: until 500 dials | Course leaves length open; tied to Module 4 checkpoint | 3.7, 3.9, 4.27 |
+
+## 💷 Financial proof (3.9): research calls
+Placeholder (my guess, replace with real data): £15K job × 30% − £1K ads ≈ £3.5K ceiling → fee ~£2K–£3K/mo.
+
+| Company | Area | Avg kitchen job £ | Margin % | Where jobs come from |
+|---|---|---|---|---|
+| | | | | |
 
 ---
 

@@ -100,6 +100,11 @@ Placeholder (my guess, replace with real data): £15K job × 30% − £1K ads �
   2. **Qualify & book:** we call every lead fast, check budget/timeline/homeowner, and book them into the diary (speed to lead, 8.11)
   3. **Show up:** reminder automations cut no-shows (Module 8); the owner just turns up and closes
 - **One sentence:** We fill kitchen companies' diaries with qualified homeowners ready for a new kitchen, by running the ads, calling every lead and booking them straight into their calendar.
+- **Value equation check (user's sketch, Hormozi framework, not from the course):**
+  - Dream outcome: more kitchen jobs → sharpen to "X extra kitchens a month" (4.14 style)
+  - Likelihood: no proof yet → remove the risk with 3.14 performance pricing (no upfront fee, 6% of revenue from our jobs, client covers ad spend, 60-day commitment)
+  - Time delay: "30 days" → promise *first booked appointments* in ~30 days, not closed jobs (kitchens take longer to sell). The course's commitment is 60 days.
+  - Effort: "we call the leads for you" = pillar 2 (appointments, not leads)
 - **Elevator pitch (4.14 template):** "So I work with one kitchen company per area in Surrey. Now, we don't give you leads. We'll generate them, but then my team calls them, qualifies them and books them straight into your diary. These are homeowners planning a new kitchen in the next few months. You just show up and design it."
 - **Continuation question (4.14):** "If 3 extra kitchen jobs landed on you right now, would your fitting team be able to handle that?"
 

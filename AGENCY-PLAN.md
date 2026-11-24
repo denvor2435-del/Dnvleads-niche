@@ -88,6 +88,23 @@ Placeholder (my guess, replace with real data): £15K job × 30% − £1K ads �
 
 ---
 
+## 🧩 Offer draft (3.10–3.13): NOT locked yet
+> Draft modelled on LaunchPad's offer (3.12 note, 4.14 example), adapted to UK kitchens. Lock it after the research calls confirm the problem, then run it through LaunchOffer AI (3.11).
+
+- **Who:** independent kitchen design & installation companies (one per area)
+- **Main problem (to confirm on research calls):** inconsistent enquiries. Relying on referrals, showroom walk-ins and directories; time wasted quoting tyre-kickers.
+- **Service:** Meta ads → our team calls, qualifies and books → appointments in their diary
+- **What the client gets:** qualified design appointments with homeowners who want a new kitchen soon, booked straight into their calendar
+- **3 pillars:**
+  1. **Attract:** Meta ads showing finished kitchens bring in homeowners planning a new kitchen
+  2. **Qualify & book:** we call every lead fast, check budget/timeline/homeowner, and book them into the diary (speed to lead, 8.11)
+  3. **Show up:** reminder automations cut no-shows (Module 8); the owner just turns up and closes
+- **One sentence:** We fill kitchen companies' diaries with qualified homeowners ready for a new kitchen, by running the ads, calling every lead and booking them straight into their calendar.
+- **Elevator pitch (4.14 template):** "So I work with one kitchen company per area in Surrey. Now, we don't give you leads. We'll generate them, but then my team calls them, qualifies them and books them straight into your diary. These are homeowners planning a new kitchen in the next few months. You just show up and design it."
+- **Continuation question (4.14):** "If 3 extra kitchen jobs landed on you right now, would your fitting team be able to handle that?"
+
+---
+
 ## 📊 Cold call numbers (Module 4)
 | Session date | Dials | Owners reached | Meetings booked | Notes |
 |---|---|---|---|---|

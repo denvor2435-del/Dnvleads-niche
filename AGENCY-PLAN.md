@@ -11,7 +11,7 @@ Rule from the course: **don't move past a checkpoint until every box is ticked.*
 - **Niche:** Kitchen design & installation companies (showrooms / supply + fit, NOT fit-only fitters), UK. Say "kitchen companies" on calls; search "kitchen showroom / kitchen design / fitted kitchens [town]"
 - **Region 1:** Surrey + Hertfordshire (London commuter belt), then expand region by region
 - **Capacity:** 30 hrs/week
-- **Next action:** 5–10 research calls to Surrey/Herts kitchen companies (avg job £, margin, lead source) + finish Module 2 setup
+- **Next action:** Dial from today's lead sheet (`Cold-Calling-lead-list/leads/2026-11-24.xlsx`, 158 companies). Use the first 5–10 calls as research calls (avg job £, margin, lead source) + finish Module 2 setup
 - **Blocked on:** nothing
 
 ---
@@ -48,7 +48,7 @@ Rule from the course: **don't move past a checkpoint until every box is ticked.*
 - [ ] Monthly retainer
 
 ### Module 4: Cold Calling (4.27)
-- [ ] 200+ targeted prospects listed
+- [ ] 200+ targeted prospects listed (158 so far, 2026-11-24; daily list in `Cold-Calling-lead-list`)
 - [ ] 500+ dials (2-hour blocks, track the 4 numbers)
 - [ ] Posted a call for feedback and applied it
 - [ ] 3+ qualified meetings booked
@@ -78,6 +78,7 @@ Rule from the course: **don't move past a checkpoint until every box is ticked.*
 | 2026-11-23 | Niche: **kitchen fitters** (full design & install). Backup: roofing | High ticket (on course high-AOV list); visual for Meta ads; 8.27 kitchen example call. Real estate dropped (not covered by course system); restaurants too low AOV | 3.2–3.5 |
 | 2026-11-23 | Region 1: **Surrey + Hertfordshire** | My judgment: high house values → bigger kitchens; enough firms for 200+ prospects | 4.27 |
 | 2026-11-23 | Testing period: until 500 dials | Course leaves length open; tied to Module 4 checkpoint | 3.7, 3.9, 4.27 |
+| 2026-11-24 | Daily lead list: Google Places, <150 reviews, priority towns in Surrey + Herts first; chains and off-niche trades filtered out | My own approach to fill the 4.27 prospect list. BBB is US/Canada only, so UK checks use Companies House (owner names) + TPS/CTPS | 4.27 |
 
 ## 💷 Financial proof (3.9): research calls
 Placeholder (my guess, replace with real data): £15K job × 30% − £1K ads ≈ £3.5K ceiling → fee ~£2K–£3K/mo.

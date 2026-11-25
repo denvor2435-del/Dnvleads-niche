@@ -11,7 +11,7 @@ Rule from the course: **don't move past a checkpoint until every box is ticked.*
 - **Niche:** Kitchen design & installation companies (showrooms / supply + fit, NOT fit-only fitters), UK. Say "kitchen companies" on calls; search "kitchen showroom / kitchen design / fitted kitchens [town]"
 - **Region 1:** Surrey + Hertfordshire (London commuter belt), then expand region by region
 - **Capacity:** 30 hrs/week
-- **Next action:** Dial from today's lead sheet (`Cold-Calling-lead-list/leads/2026-11-24.xlsx`, 158 companies). Use the first 5–10 calls as research calls (avg job £, margin, lead source) + finish Module 2 setup
+- **Next action:** Make the GitHub repos private (they're public), then dial Guildford using the *Call Script* tab in the Google Sheet. First 5–10 calls = research calls for 3.9
 - **Blocked on:** nothing
 
 ---
@@ -79,6 +79,8 @@ Rule from the course: **don't move past a checkpoint until every box is ticked.*
 | 2026-11-23 | Region 1: **Surrey + Hertfordshire** | My judgment: high house values → bigger kitchens; enough firms for 200+ prospects | 4.27 |
 | 2026-11-23 | Testing period: until 500 dials | Course leaves length open; tied to Module 4 checkpoint | 3.7, 3.9, 4.27 |
 | 2026-11-24 | Daily lead list: Google Places, <150 reviews, priority towns in Surrey + Herts first; chains and off-niche trades filtered out | My own approach to fill the 4.27 prospect list. BBB is US/Canada only, so UK checks use Companies House (owner names) + TPS/CTPS | 4.27 |
+
+| 2026-11-25 | Call framework: course train track (4.12–4.20) adapted to kitchens, kept in the private Google Sheet's *Call Script* tab, not in GitHub | Course content is confidential and these repos are public. Kitchen wording + pitch are my drafts until the offer is locked (3.13) | 4.12–4.20 |
 
 ## 💷 Financial proof (3.9): research calls
 Placeholder (my guess, replace with real data): £15K job × 30% − £1K ads ≈ £3.5K ceiling → fee ~£2K–£3K/mo.
